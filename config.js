@@ -7,19 +7,19 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
+  ['918921784588', 'ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝🌺♪Bʟᴀᴄᴋ⎈Tɪᴛᴀɴ♪🎋⍣⃝', true], 
+  ['918921784588', 'Blacktitan', true],
+  ['918921784588', '𝗦𝘂𝗱𝗼 𝘀𝘂-(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['918921784588', '𝗦𝘂𝗱𝗼 𝘀𝘂', true],
+  ['918921784588', '𝗦𝘂𝗱𝗼 𝘀𝘂', true],
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "918921784588" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','233533763772','233208179431'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087','233533763772']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087','233533763772']
+global.mods = ['918921784588', '918921784588', '918921784588','918921784588','918921784588'] 
+global.prems = ['918921784588', '918921784588', '918921784588', '918921784588','918921784588']
+global.allowed = ['918921784588', '918921784588', '918921784588', '918921784588','918921784588']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -54,13 +54,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = '𝗦𝘂𝗱𝗼 𝘀𝘂'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'BlackTitan' 
+global.author = '@a_d_h____i' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
